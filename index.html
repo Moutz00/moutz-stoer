@@ -1976,7 +1976,6 @@ header img:hover {
     <div class="product-card">
          <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBZzgUp8e3xrczsiPpNwRM5IlmNix8Pob7op9CiahlWQ8MQuQnT6rIdy2it5WtEUSaFh2qrqw94ug0bYiNIe375wljjVS9okL0du0GL_0n6OjthAcneiV1&usqp=CAc" alt="المنتج 4" class="product-image">
          <div class="product-name">كيبورد</div>
-         <div class="product-description">وصف المنتج 4</div>
          <div class="product-price">249.99 شيكل</div>
          <button class="product-button">أضف للسلة</button>
     </div>
